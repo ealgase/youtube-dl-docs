@@ -10,10 +10,14 @@ This page contains basic information about youtube-dl.
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
 
-   *
+   Usage/formatselect.rst
+   Usage/output.rst
+   Usage/videoselect.rst
+   Usage/configuration.rst
+   Usage/options.rst
 
 What is youtube-dl?
 -------------------
