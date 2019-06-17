@@ -18,6 +18,7 @@ This page contains basic information about youtube-dl.
    Usage/videoselect.rst
    Usage/configuration.rst
    Usage/options.rst
+   faq.rst
 
 What is youtube-dl?
 -------------------
